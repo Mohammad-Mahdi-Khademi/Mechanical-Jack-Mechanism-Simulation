@@ -54,8 +54,9 @@ The project includes:
 
 ### Simulation Outputs  
 ![Vertical Displacement vs. Time](plots/A/displacement/displacement.png)
-![Forces along Z Axis](plots/A/force element/Z_axis.png)
-![Torque about Shaft A](plots/A/torque element/X_axis.png)
+![Forces along Z Axis](plots/A/force%20element/Z_axis.png)
+![Torque about Shaft A](plots/A/torque%20element/X_axis.png)
+
 
 ---
 
