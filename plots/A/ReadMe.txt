@@ -1,0 +1,1 @@
+torque and force plots for joint 'A'
